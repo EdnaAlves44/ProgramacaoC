@@ -27,6 +27,8 @@ Execute o programa:
 ✔️ Saída de dados (printf)
 ✔️ Variáveis
 ✔️ Operações matemáticas
+✔️ Organização de arquivos
+✔️ Documentos com README
 
 👩‍💻 Autora
 
