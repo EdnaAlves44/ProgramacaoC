@@ -10,6 +10,7 @@ Aprender lógica de programação e desenvolver habilidades básicas na linguage
 
 - `olamundo.c` → Primeiro programa exibindo mensagem na tela
 - `olamundo` → Arquivo executável gerado
+- `decimal.c` → Programa que realiza cálculo com números decimais (float)
 
 ## 🚀 Como executar
 
